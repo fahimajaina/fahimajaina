@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<!-- Female Developer GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="400" height="200"/>
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahimajaina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -61,6 +57,3 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
-</div>
