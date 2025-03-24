@@ -2,12 +2,12 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Enthusiast;Creative+Designer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Enthusiast;Creative+Designer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahimajaina&label=Profile%20views&color=0e75b6&style=flat" alt="fahimajaina" /> 
-  <a href="https://github.com/fahimajaina?tab=followers"><img src="https://img.shields.io/github/followers/fahimajaina?logo=github" alt="GitHub followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=fahimajaina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="https://github.com/fahimajaina?tab=followers"><img src="https://img.shields.io/github/followers/fahimajaina?logo=github" alt="GitHub Followers"></a>
 </p>
 
 <div align="center">
@@ -33,8 +33,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimajaina&show_icons=true&theme=radical" alt="fahimajaina's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimajaina&theme=radical" alt="fahimajaina's streak stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimajaina&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimajaina&theme=radical" alt="GitHub Streak Stats" width="48%"/>
 </p>
 
 <p align="center">
