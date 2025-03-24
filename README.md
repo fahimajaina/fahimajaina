@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fahima Jaina</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Enthusiast;Creative+Designer" alt="Typing SVG" />
+  </a>
+</p>
+
 <!-- Female Developer GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="400" height="200"/>
