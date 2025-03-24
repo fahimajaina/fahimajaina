@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fahima Jaina</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Enthusiast;Creative+Designer" alt="Typing SVG" /></a>
-</p>
+<!-- Female Developer GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="400" height="200"/>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahimajaina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://github.com/fahimajaina?tab=followers"><img src="https://img.shields.io/github/followers/fahimajaina?logo=github" alt="GitHub Followers"></a>
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
-</div>
 
 ## 🔥 Current Focus
 - 💼 Working on **Employee Leave Management System**
