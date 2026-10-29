@@ -43,7 +43,7 @@ I'm an aspiring AI/ML researcher and developer interested in exploring how intel
 
 ## 🚀 Featured Projects
 
-### 1. [Romanized Sylheti Hate Speech Detection](https://github.com/fahimajaina/YOUR-HATE-SPEECH-REPOSITORY)
+### 1. [Romanized Sylheti Hate Speech Detection](https://github.com/fahimajaina/SylHate-Romanized-Sylheti-Hate-Speech-Detection)
 
 *Machine Learning · NLP · Research*
 
